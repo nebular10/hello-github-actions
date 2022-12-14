@@ -10,6 +10,7 @@
 _Create a GitHub Action and use it in a workflow._
 
 <!--
+  :D
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
